@@ -20,4 +20,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/V3SAKURAAIRIV3/VirusV3-Versi3-SshWS-OpenVPN/main/1.png" width="400" title="1"><br>
 <br>
- <img src="https://raw.githubusercontent.com/V3SAKURAAIRIV3VirusV3-Versi3-SshWS-OpenVPN/main/2.png" width="400" title="2"><br>
+ <img src="https://raw.githubusercontent.com/V3SAKURAAIRIV3/VirusV3-Versi3-SshWS-OpenVPN/main/2.png" width="400" title="2"><br>
