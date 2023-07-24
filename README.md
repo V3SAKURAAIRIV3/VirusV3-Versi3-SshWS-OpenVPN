@@ -12,6 +12,13 @@
 <pre><code>apt --fix-missing update && apt update && apt upgrade -y && apt install -y wget screen && wget -q https://raw.githubusercontent.com/V3SAKURAAIRIV3/VirusV3-Versi3-SshWS-OpenVPN/main/setup.sh && chmod +x setup.sh && screen -S setup ./setup.sh
 </code></pre>
 
+♦️ Serial Key Link<br>
+
+  ```html
+foreverforusayang143
+ ```
+
+
 ♦️ REVIEW AUTOSCRIPT MOD COMBINE PICTURE BELOW <br>
 
 <b>
