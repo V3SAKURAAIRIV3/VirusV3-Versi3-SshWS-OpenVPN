@@ -7,12 +7,12 @@
 
 <pre><code>apt-get update && apt-get upgrade -y && apt dist-upgrade -y && update-grub && reboot</code></pre>
 
-♦️ Installation Link
+♦️ Installation
 
 <pre><code>apt --fix-missing update && apt update && apt upgrade -y && apt install -y wget screen && wget -q https://raw.githubusercontent.com/V3SAKURAAIRIV3/VirusV3-Versi3-SshWS-OpenVPN/main/setup.sh && chmod +x setup.sh && screen -S setup ./setup.sh
 </code></pre>
 
-♦️ Serial Key Link<br>
+♦️ Serial Key
 
   ```html
 foreverforusayang143
